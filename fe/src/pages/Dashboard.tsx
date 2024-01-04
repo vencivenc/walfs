@@ -25,7 +25,7 @@ export const Dashboard = () => {
       } catch (e: any) {
       } finally {
       }
-    }, 1000);
+    }, 3000);
     return () => clearInterval(interval);
   }, [user]);
 
