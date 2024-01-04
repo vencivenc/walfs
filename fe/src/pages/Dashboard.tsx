@@ -19,7 +19,9 @@ export const Dashboard = () => {
     const interval = setInterval(async () => {
       try {
         const tmpState = await AppService.get(user.name);
-        setState(tmpState);
+        if (tmpState) {
+          setState(tmpState);
+        }
       } catch (e: any) {
       } finally {
       }
