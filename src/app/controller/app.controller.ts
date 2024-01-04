@@ -1,4 +1,4 @@
-import {Body, Controller, Get, Param, Post, Query} from '@nestjs/common';
+import {Body, Controller, Get, Header, Param, Post, Query} from '@nestjs/common';
 import {StartDto} from "../dto/start.dto";
 import {StateDto} from "../dto/state.dto";
 
@@ -12,6 +12,7 @@ export class AppController {
   }
 
   @Get('state')
+  @Header('Cache-Control', 'no-cache')
   getState(@Query('name') name: string): StateDto {
     this.addPlayer(name);
 
