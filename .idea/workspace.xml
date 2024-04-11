@@ -4,11 +4,78 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="557442ab-54c7-4c08-a27c-c7eb318d97f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MainScreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+    <list default="true" id="557442ab-54c7-4c08-a27c-c7eb318d97f3" name="Changes" comment="...">
+      <change afterPath="$PROJECT_DIR$/eas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/display/image9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/constants.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/superbase.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LogoutAlertDialog.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tabs.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/GameContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/ThemeContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/UserContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Authorized.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/game/GamePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/home/HomePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/profile/MobileProfilePage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/adaptive-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/adaptive-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/constants.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/game/GameListItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/error.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/error.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/http.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/http.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/superbase.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/wait.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/wait.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/LogoutAlertDialog.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Tabs.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/GameContext.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/ThemeContext.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/UserContext.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dto/game.dto.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/dto/game.dto.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dto/player.dto.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/dto/player.dto.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dto/user.dto.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/dto/user.dto.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gluestack-ui.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gluestack-ui.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/walfs.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/walfs.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metro.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/metro.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/auth.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/game.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/game.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/user.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/user.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/Authorized.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/Game.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Game.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/GameSelect.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/GameSelect.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/Layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/MobileProfilePage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/login/AppleLoginButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/login/AppleLoginButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/login/GoogleLoginButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/login/GoogleLoginButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/login/Login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/login/Login.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +85,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/context/UserContext.tsx" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2aYJor4banN5txNvKpL3qemmwhy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,27 +104,56 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/ventsislavkyorovski/workspace/js/walfs/common",
+    "last_opened_file_path": "/Users/ventsislavkyorovski/workspace/js/walfs/src/assets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "npm.start.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "/Users/ventsislavkyorovski/workspace/js/walfs/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/common" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/views" />
+      <recent name="$PROJECT_DIR$/views/login" />
       <recent name="$PROJECT_DIR$/services" />
-      <recent name="$PROJECT_DIR$/views" />
-      <recent name="$PROJECT_DIR$/dto" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/context" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/views/profile" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/views/login" />
       <recent name="$PROJECT_DIR$/views" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,11 +163,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704489756934</updated>
-      <workItem from="1704489758087" duration="25409000" />
+      <workItem from="1704489758087" duration="25809000" />
+      <workItem from="1704707007966" duration="4753000" />
+      <workItem from="1704990718134" duration="66205000" />
+      <workItem from="1706865828277" duration="50000" />
+      <workItem from="1707985046735" duration="3222000" />
+      <workItem from="1709447696647" duration="598000" />
+      <workItem from="1709930448690" duration="4681000" />
+      <workItem from="1709969571917" duration="19289000" />
+      <workItem from="1712504398490" duration="41000" />
+      <workItem from="1712822567588" duration="409000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="init" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
